@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # write-up
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -27,3 +28,7 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# Write-Up
+Write-Up (Beta version)
+>>>>>>> e13a92d24bd9ce4be5bf1e1a17d02e66d19d5b46
